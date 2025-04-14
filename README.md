@@ -9,7 +9,7 @@
 <p align="center">A web page where I showcase my projects, development tools, and share a bit about myself.</p>
 
 ### Get start 
-[click here](https://rodrigopasquim.github.io/rodrigowebdeveloper/)
+[click here](https://rodrigopasquim.github.io/rodrigo-personal-page/)
 
 ### Developering by
 [click here](https://github.com/rodrigopasquim)
