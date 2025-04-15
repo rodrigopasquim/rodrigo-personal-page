@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="150">
+  <img src="assets/imgs" width="150">
 </div>
 
 <h1 align="center">Rodrigo personal page</h1>
